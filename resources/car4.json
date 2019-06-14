@@ -1,0 +1,22 @@
+{
+  "model": "TOYOTA",
+  "price": 63000,
+  "mileage": 70000,
+  "engine": {
+    "type": "GASOLINE",
+    "power": 70
+  },
+  "carBody": {
+    "color": "GREEN",
+    "type": "HATCHBACK",
+    "components": [
+      "ABS",
+      "RADIO"
+    ]
+  },
+  "wheel": {
+    "model": "TOURING",
+    "size": 195,
+    "type": "WINTER"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "model": "BMW",
+  "price": 53000,
+  "mileage": 100000,
+  "engine": {
+    "type": "DIESEL",
+    "power": 124
+  },
+  "carBody": {
+    "color": "BLACK",
+    "type": "SEDAN",
+    "components": [
+      "ABS",
+      "CLIMATIZATION",
+      "RADIO"
+    ]
+  },
+  "wheel": {
+    "model": "TURANZA T",
+    "size": 205,
+    "type": "SUMMER"
+  }
+}

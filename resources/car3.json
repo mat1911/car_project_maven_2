@@ -1,0 +1,23 @@
+{
+  "model": "OPEL",
+  "price": 34000,
+  "mileage": 200000,
+  "engine": {
+    "type": "LPG",
+    "power": 90
+  },
+  "carBody": {
+    "color": "SILVER",
+    "type": "HATCHBACK",
+    "components": [
+      "IMMOBILAIZER",
+      "HEATED SEATS",
+      "RADIO"
+    ]
+  },
+  "wheel": {
+    "model": "ECODRIVER",
+    "size": 195,
+    "type": "WINTER"
+  }
+}
